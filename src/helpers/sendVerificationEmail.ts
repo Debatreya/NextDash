@@ -32,3 +32,6 @@ export async function sendVerificationEmail(
         }
     }
 }
+
+// I am using free version of RESEND. It only allows to send email to the account connected to the RESEND.
+// I will make another mailer function to send email using nodemailer. ```TODO```       
