@@ -6,5 +6,10 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 
 DEFAULT LOGIN CREDENTIALS
+
     Email: user@nextmail.com
     Password: 123456
+
+Next Step: [Next Docs](https://nextjs.org/docs)
+
+<!-- This is Perhaps the last Update or Last Commit of 2024 by Debatreya  -->
